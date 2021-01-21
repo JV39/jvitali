@@ -1,2 +1,2 @@
-from TinyMath.ListFunctions import *
-from TinyMath.BasicMath import *
+from jvitali.ListFunctions import *
+from jvitali.BasicMath import *
